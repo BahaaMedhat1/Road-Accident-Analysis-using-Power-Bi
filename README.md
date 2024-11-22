@@ -40,6 +40,23 @@ This project delivers a comprehensive analysis of road accidents in England for 
 
 ---
 
+## ⚙️ Power BI Functionalities
+This project utilized the following Power BI functionalities:
+- **Data Connectivity**: Connected to raw data/flat files.
+- **Data Cleaning**: Performed cleaning using Power Query.
+- **Data Processing**: Prepared and transformed the dataset for visualization.
+- **Time Intelligence Functions**: Created a calendar date table to support advanced analysis.
+- **Data Modeling**: Built relationships between multiple tables.
+- **DAX Calculations**:
+  - Year-to-Date (YTD) and Year-over-Year (YoY) growth metrics.
+- **KPI Creation**:
+  - Designed advanced KPI cards for a clear summary of key metrics.
+- **Custom Columns and Measures**: Added tailored calculations for better reporting.
+- **Images Integration**: Enhanced the dashboard with meaningful visuals and custom icons.
+- **Chart Design**: Developed diverse visuals for generating insights.
+
+---
+
 ## 📊 Key Insights
 1. **Year-Over-Year Changes**:
    - Total casualties decreased by **11.9%**, while total accidents fell by **11.7%**.
@@ -72,6 +89,18 @@ This project delivers a comprehensive analysis of road accidents in England for 
 
 ---
 
+## 👥 Stakeholders
+The dashboard is designed to benefit the following stakeholders:
+- Ministry of Transport
+- Road Transport Department
+- Police Force
+- Emergency Services Department
+- Road Safety Corps
+- Transport Operators
+- Traffic Management Agencies
+
+---
+
 ## 🧰 Tools and Technologies
 - **Data Processing**: Power Query for data cleaning and transformation.
 - **Visualization**: Power BI for creating interactive dashboards.
@@ -80,10 +109,10 @@ This project delivers a comprehensive analysis of road accidents in England for 
 ---
 
 ## 📁 Files Included
-1. **Dashboard.pbix**: The Power BI dashboard file.
-2. **Data.csv**: The cleaned dataset used for analysis.
+1. **Road Accident Analysis.pbix**: The Power BI dashboard file.
+2. **Road Accident Data.xlsx**: The dataset used for analysis.
 3. **Icons.zip**: Custom icons used in the visuals.
-4. **Data_Dictionary.xlsx**: Documentation of dataset terms and columns.
+4. **Data Dictionary.xlsx**: Documentation of dataset terms and columns.
 
 ---
 
@@ -96,17 +125,14 @@ This project delivers a comprehensive analysis of road accidents in England for 
 
 ## 📝 How to Use
 1. Clone the repository and download the included files.
-2. Open `Dashboard.pbix` in Power BI Desktop.
+2. Open `Road Accident Analysis.pbix` in Power BI Desktop.
 3. Interact with the dashboard by applying filters to explore specific insights.
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 
 **Bahaa Medhat Wanas**  
 - Email: [bahaawanas427@gmail.com](mailto:bahaawanas427@gmail.com)  
-- LinkedIn: [Bahaa Wanas](https://www.linkedin.com/in/bahaa-wanas)
+- LinkedIn: [Bahaa Wanas](https://www.linkedin.com/in/bahaa-wanas-9797b923a)
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License.
